@@ -1,13 +1,14 @@
 <h1 align="center">Hi 👋, I'm Shashank</h1>
 <h3 align="center">Stumbling my way from 'Hello World' to 'Help Me'!</h3>
 
+
 - Currently a **4th year Computer Science student from Mumbai University**
 
 - 📫 How to reach me **shashankvsdb@gmail.com**
 
 - 📄 about me [bento.me/shashaank](bento.me/shashaank)
 
-- im a newbie :)
+- P.S. im still a newbie :)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
