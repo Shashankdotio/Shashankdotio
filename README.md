@@ -6,7 +6,7 @@
 
 - 📫 How to reach me **shashankvsdb@gmail.com**
 
-- 📄 about me [bento.me/shashaank](bento.me/shashaank)
+- 📄[about me](bento.me/shashaank)
 
 - P.S. im still a newbie :)
 
