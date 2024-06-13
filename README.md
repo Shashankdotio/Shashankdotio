@@ -2,7 +2,7 @@
 <h3 align="center">Stumbling my way from 'Hello World' to 'Help Me'!</h3>
 
 
-- Currently a **4th year Computer Science student from St. Francis institute of technology (Mumbai University)**
+- Currently a **4th year Computer Science** student from **St. Francis institute of technology (Mumbai University)**
 
 - 📫 How to reach me **shashankvsdb@gmail.com**
 
