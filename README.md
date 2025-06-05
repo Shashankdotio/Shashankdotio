@@ -6,8 +6,6 @@
 
 - 📫 How to reach me **shashankvsdb@gmail.com**
 
-- 👨🏻‍🍳 [About me](bento.me/shashaank)
-
 - P.S. im still a newbie :)
 
 <h3 align="left">Connect with me:</h3>
