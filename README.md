@@ -21,8 +21,8 @@
   </a>
 </p>
 
-  🔧 Building systems that (hopefully) don't crash.<br>
-  🌱 Learning, unlearning, and relearning — every single day.
+  🔧  Building things. Breaking things. Pretending it was intentional. <br>
+  🌱  Still learning. Still googling. Still loving it.
 </p>
 
 
