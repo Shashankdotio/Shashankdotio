@@ -14,21 +14,20 @@
 <h3 align="center">Started with <code>Hello World</code>, now debugging real life 🧠</h3>
 
 <p align="center">
-  <img src="assets/rutgers.png" width="160" alt="Rutgers University Logo" />
+<p align="center">
+  🎓 Currently pursuing my Master's Degree at 
+  <a href="https://www.rutgers.edu/" target="_blank">
+    <img src="assets/rutgers.png" width="65" alt="Rutgers University Logo" style="vertical-align: middle;" />
+  </a>
 </p>
 
-
-<p align="center">
-  🎓 Currently pursuing Master's in Information Systems & Analytics at <strong>Rutgers University</strong><br>
   🔧 Building systems that (hopefully) don't crash.<br>
   🌱 Learning, unlearning, and relearning — every single day.
 </p>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/fAnEC88LccN7a/giphy.gif" width="300" alt="Dev life gif" />
-</p>
 
-
+<img src="assets/dinosaur.gif" width="500">
+<br><br>
 
 
 <!-- for beauty 留个空行好看点 -->
