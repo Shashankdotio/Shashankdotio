@@ -27,7 +27,7 @@
 
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Shashankdotio/Shashankdotio/main/assets/dinosaur.gif" width="300" alt="Dino Coding GIF" />
+  <img src="https://raw.githubusercontent.com/Shashankdotio/Shashankdotio/main/assets/dinosaur.gif" width="500" alt="Dino Coding GIF" />
 </p>
 
 <!-- for beauty 留个空行好看点 -->
