@@ -52,7 +52,7 @@
 
 <!-- GitHub Contribution Snake (Dark Mode Only) -->
 <p align="center">
-  <img alt="github-snake-dark" src="https://raw.githubusercontent.com/Shashankdotio/Shashankdotio/output/github-contribution-grid-snake-dark.svg" />
+  <img alt="github-snake-dark" src="https://raw.githubusercontent.com/Shashankdotio/Shashankdotio/output/github-contribution-grid-snake-dark.svg" width="750" />
 </p>
 
 
