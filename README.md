@@ -37,9 +37,9 @@
   <a href="https://linkedin.com/in/shashankkamble97">
     <img src="https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=linkedin&logoColor=white" />
   </a>&emsp;
-  <!-- Bento -->
-  <a href="https://bento.me/shashaank">
-    <img src="https://img.shields.io/badge/-AboutMe-07c160?style=flat-square&logo=about-dot-me&logoColor=white" />
+  <!-- Portfolio -->
+  <a href="https://shashank-kamble.vercel.app">
+    <img src="https://img.shields.io/badge/-Portfolio-07c160?style=flat-square&logo=about-dot-me&logoColor=white" />
   </a>&emsp;
   <!-- Instagram -->
   <a href="https://instagram.com/shashaaannk/">
@@ -47,7 +47,7 @@
   </a>&emsp;
   <!-- Gmail -->
   <a href="mailto:shashankvsdb@gmail.com">
-    <img src="https://img.shields.io/badge/-shashankvsdb@gmail.com-c14438?style=flat-square&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/-gmail-c14438?style=flat-square&logo=gmail&logoColor=white" />
   </a>
 
 <!-- GitHub Contribution Snake (Dark Mode Only) -->
