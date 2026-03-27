@@ -1,7 +1,7 @@
 <!-- dynamic typing effect -->
 <div align="center">
   
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=300&lines=नमस्ते!;Hello!;Hola!;こんにちは!;Bonjour!;안녕하세요!;Ciao!&center=true&size=30)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=300&lines=नमस्ते!;Hello!;Hola!;こんにちは!;Bonjour!;안녕하세요!;Ciao!&center=true&size=30)](https://git.io/typing-svg)
 
 <img width="200%" src="https://github.com/Shashankdotio/Shashankdotio/blob/main/assets/line.gif" />
 
