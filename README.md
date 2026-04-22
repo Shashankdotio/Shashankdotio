@@ -49,6 +49,7 @@
   <a href="mailto:shashankvsdb@gmail.com">
     <img src="https://img.shields.io/badge/-gmail-c14438?style=flat-square&logo=gmail&logoColor=white" />
   </a>
+</div>
 
 <!-- GitHub Contribution Snake (Dark Mode Only) -->
 <p align="center">
