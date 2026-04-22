@@ -12,143 +12,76 @@
 <h3 align="center"> <code>✨ Powered by curiosity, coffee, and timely "GPT, how do I..."</code> </h3>
 
 <p align="center">
-<p align="center">
    Currently pursuing my Master's Degree at 
   <a href="https://www.rutgers.edu/" target="_blank">
     <img src="assets/rutgers.png" width="65" alt="Rutgers University Logo" style="vertical-align: middle;" />
   </a>
 </p>
 
-
 <p align="center">
   <img src="https://raw.githubusercontent.com/Shashankdotio/Shashankdotio/main/assets/dinosaur.gif" width="550" alt="Dino Coding GIF" />
 </p>
 
-<!-- for beauty 留个空行好看点 -->
-  <div>&nbsp;</div>
+<div>&nbsp;</div>
 
 <!-- Social Links -->
 <div align="center">
-  <!-- YouTube -->
   <a href="https://www.youtube.com/@justshashank2003">
     <img src="https://img.shields.io/badge/-Youtube-c4302b?style=flat-square&logo=youtube&logoColor=white" />
   </a>&emsp;
-  <!-- LinkedIn -->
+
   <a href="https://linkedin.com/in/shashankkamble97">
     <img src="https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=linkedin&logoColor=white" />
   </a>&emsp;
-  <!-- Portfolio -->
+
   <a href="https://shashank-kamble.vercel.app">
     <img src="https://img.shields.io/badge/-Portfolio-07c160?style=flat-square&logo=about-dot-me&logoColor=white" />
   </a>&emsp;
-  <!-- Instagram -->
+
   <a href="https://instagram.com/shashaaannk/">
     <img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" />
   </a>&emsp;
-  <!-- Gmail -->
+
   <a href="mailto:shashankvsdb@gmail.com">
     <img src="https://img.shields.io/badge/-gmail-c14438?style=flat-square&logo=gmail&logoColor=white" />
   </a>
 </div>
 
-<!-- GitHub Contribution Snake (Dark Mode Only) -->
+<!-- Snake -->
 <p align="center">
-  <img alt="github-snake-dark" src="https://raw.githubusercontent.com/Shashankdotio/Shashankdotio/output/github-contribution-grid-snake-dark.svg" width="750" />
+  <img src="https://raw.githubusercontent.com/Shashankdotio/Shashankdotio/output/github-contribution-grid-snake-dark.svg" width="750" />
 </p>
 
+<div style="margin: 12px 0;"></div>
 
-<!-- Short Gap -->
-<div style="margin: 12px 0;">
-</div>
 <img width="200%" src="https://github.com/Shashankdotio/Shashankdotio/blob/main/assets/line.gif" />
 
 <!-- Tech Stack Icons -->
 <p align="center"> 
-  <!-- Android -->
-  <a href="https://developer.android.com" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="35" height="35"/> 
-  </a>
+  <a href="https://developer.android.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" width="35"/></a>
+  <a href="https://www.blender.org/"><img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" width="35"/></a>
+  <a href="https://www.cprogramming.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="35"/></a>
+  <a href="https://www.w3schools.com/cpp/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="35"/></a>
+  <a href="https://www.figma.com/"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="35"/></a>
+  <a href="https://firebase.google.com/"><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="35"/></a>
+  <a href="https://flutter.dev"><img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" width="35"/></a>
+  <a href="https://www.java.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="35"/></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="35"/></a>
+  <a href="https://www.linux.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="35"/></a>
+  <a href="https://www.mysql.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="35"/></a>
+  <a href="https://www.docker.com/"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Docker.svg" width="35"/></a>
+  <a href="https://www.postgresql.org/"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/PostgreSQL-Light.svg" width="35"/></a>
+  <a href="https://www.postman.com/"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Postman.svg" width="35"/></a>
+  <a href="https://www.swift.org/"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Swift.svg" width="35"/></a>
+</p>
 
-  <!-- Blender -->
-  <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="35" height="35"/> 
-  </a>
-
-  <!-- C -->
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="35" height="35"/> 
-  </a>
-
-  <!-- C++ -->
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="35" height="35"/> 
-  </a>
-
-  <!-- Figma -->
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="35" height="35"/> 
-  </a>
-
-  <!-- Firebase -->
-  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="35" height="35"/> 
-  </a>
-
-  <!-- Flutter -->
-  <a href="https://flutter.dev" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="35" height="35"/> 
-  </a>
-
-  <!-- Java -->
-  <a href="https://www.java.com" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="35" height="35"/> 
-  </a>
-
-  <!-- JavaScript -->
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="35" height="35"/> 
-  </a>
-
-  <!-- Linux -->
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="35" height="35"/> 
-  </a>
-
-  <!-- MySQL -->
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="35" height="35"/> 
-  </a>
-
-  <!-- Photoshop -->
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/refs/heads/main/icons/Docker.svg" alt="docker" width="35" height="35"/> 
-  </a>
-
-  <!-- Postgres-->
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/refs/heads/main/icons/PostgreSQL-Light.svg" alt="docker" width="35" height="35"/> 
-  </a>
-  
-  <!-- Postman-->
-  <a href="https://www.postman.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/refs/heads/main/icons/Postman.svg" alt="docker" width="35" height="35"/> 
-  </a>
-
-  <!-- Swift-->
-  <a href="https://www.swift.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/refs/heads/main/icons/Swift.svg" alt="docker" width="35" height="35"/> 
-  </a>
-  </p>
-
-
-<!-- gif -->
+<!-- GIF icons row -->
 <p align="center"> 
-<img height="75" width="75" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/html.webp">
-<img height="75" width="75" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/cssgif.webp">
-<img height="75" width="75" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/vscode.webp">
-<img height="75" width="75" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/react.webp">
-<img height="75" width="75" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/python.webp">
-<img height="75" width="75" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/js.webp">
-<img height="75" width="75" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/github.webp">
-
-
+  <img height="75" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/html.webp">
+  <img height="75" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/cssgif.webp">
+  <img height="75" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/vscode.webp">
+  <img height="75" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/react.webp">
+  <img height="75" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/python.webp">
+  <img height="75" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/js.webp">
+  <img height="75" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/github.webp">
+</p>
